@@ -1,0 +1,5 @@
+<Modules>
+  <Module PersistentId="6B0FA303-A440-4F6B-A448-9918F6E9493B" ModuleId="FreeAgentApiCaller" />
+  <Module PersistentId="A4B20970-B99C-41FD-B094-F8ED4E3D7AA9" ModuleId="TestFreeAgentApiCaller" />
+  <Module PersistentId="8C5C719E-7A4D-4EF0-A6D2-545127E24BD2" ModuleId="FreeAgentApiCaller_1" />
+</Modules>

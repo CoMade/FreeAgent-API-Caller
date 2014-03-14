@@ -1,0 +1,13 @@
+C:\Sandbox\FreeAgentApiCaller\bin\Debug\FreeAgentApiCaller.dll
+C:\Sandbox\FreeAgentApiCaller\bin\Debug\FreeAgentApiCaller.pdb
+C:\Sandbox\FreeAgentApiCaller\bin\Debug\Newtonsoft.Json.dll
+C:\Sandbox\FreeAgentApiCaller\bin\Debug\Newtonsoft.Json.xml
+C:\Sandbox\FreeAgentApiCaller\obj\Debug\FreeAgentApiCaller.dll
+C:\Sandbox\FreeAgentApiCaller\obj\Debug\FreeAgentApiCaller.pdb
+C:\Sandbox\FreeAgentApiCaller\FreeAgentApiCaller\bin\Debug\FreeAgentApiCaller.dll
+C:\Sandbox\FreeAgentApiCaller\FreeAgentApiCaller\bin\Debug\FreeAgentApiCaller.pdb
+C:\Sandbox\FreeAgentApiCaller\FreeAgentApiCaller\bin\Debug\Newtonsoft.Json.dll
+C:\Sandbox\FreeAgentApiCaller\FreeAgentApiCaller\obj\Debug\FreeAgentApiCaller.csprojResolveAssemblyReference.cache
+C:\Sandbox\FreeAgentApiCaller\FreeAgentApiCaller\obj\Debug\FreeAgentApiCaller.dll
+C:\Sandbox\FreeAgentApiCaller\FreeAgentApiCaller\obj\Debug\FreeAgentApiCaller.pdb
+C:\Sandbox\FreeAgentApiCaller\FreeAgentApiCaller\bin\Debug\FreeAgentApiCaller.dll.config

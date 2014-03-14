@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="FreeAgentApiCaller.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="FaUsername" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">usernamefor@freeagent.account</Value>
+    </Setting>
+    <Setting Name="FaPassword" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">passwordforfreeagentaccount</Value>
+    </Setting>
+    <Setting Name="FaClientId" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">freeAgentClientIdFromFreeAgentSite</Value>
+    </Setting>
+    <Setting Name="FaClientSecret" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">freeAgentSecretFromFreeAgentSite</Value>
+    </Setting>
+    <Setting Name="FaRefreshToken" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">oAuthRefreshTokenFromOAuthPlayground</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
